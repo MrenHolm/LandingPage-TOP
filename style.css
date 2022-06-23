@@ -1,0 +1,163 @@
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0%;
+
+}
+
+.maincontainer {
+    
+    
+}
+
+.headermain {
+    background-color: #1F2937;
+    color:#F9FAF8;
+    display: flex;
+    font-size: 24px;
+    padding-bottom: 100px;
+    
+}
+
+.button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    font-size: 48px;
+    margin-bottom: 0%;
+}
+
+p {
+    font-size: 18px;
+    margin-top: 0%;
+}
+
+
+
+.upleft {
+    display: flex;
+    flex-direction: column;
+    
+    padding-left: 10rem;
+    width: 50vh;
+}
+
+
+.awesome  {
+    padding-top: 5rem;
+}
+
+.upright {
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex: 1;
+    padding-right: 10rem;
+    width: 50vh;
+}
+
+.links {
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: nowrap;
+    gap: 20px;
+    padding-bottom: 100px;
+}
+
+img[src="pexels-photo-6249728.jpeg"] {
+    display: flex;
+    width: 450px;
+    height: 350px;
+    border-radius: 50%;
+    padding-right: 5rem;
+    
+}
+
+a, a:visited {
+    text-decoration: none;
+    color:#E5E7EB;
+}
+
+ul {
+    margin: 0%;
+    font-size: 18px;
+    padding: 0%;
+
+}
+
+
+.information {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 150px;
+    height: 100px;
+}
+
+.info1, .info2, .info3 {
+    padding: 20px 20px;
+    border: 3px solid #ddd;
+    border-radius: 4px;
+    width: 150px;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.infopictures {
+    padding: 0px 600px;
+}
+
+h3 {
+    font-size: 36px;
+}
+
+.quotes {
+    background-color: #E5E7EB;
+    padding:10rem 30rem;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    opacity: 0.4;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.signup {
+    background-color: #3882F6;
+    display: flex;
+    padding: 2rem 10rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    border-radius: 10px;
+    justify-content: space-between;
+    color: #F9FAF8;
+    
+}   
+
+.footer {
+    background-color: #1F2937;
+    color:#F9FAF8;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 24px;
+    padding:2rem;
+}
+
+h4 {
+    margin:0%
+}
